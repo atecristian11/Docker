@@ -1,4 +1,4 @@
-# clase 4
+# Clase 4
 
 1. Lo primero que vamos hacer es crear la carpeta para crear alli nuestro nuevo docker y para eso lo podemos hacer con este comando: 
 
